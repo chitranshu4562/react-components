@@ -1,0 +1,16 @@
+.myButton {
+    border: none;
+    padding: 10px;
+    background-color: #ad33ff;
+    border-radius: 12px;
+    color: #ffffff;
+}
+
+.myButton:hover {
+    background-color: #0056b3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.myButton:active {
+    scale: 0.98;
+}
